@@ -1,0 +1,1048 @@
+userId,name,movieId,title,rating
+1,Alex,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",4.5
+1,Alex,5952,"Lord of the Rings: The Two Towers, The (2002)",4.0
+1,Alex,6016,City of God (Cidade de Deus) (2002),5.0
+1,Alex,6377,Finding Nemo (2003),4.0
+1,Alex,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),3.5
+1,Alex,6711,Lost in Translation (2003),5.0
+1,Alex,7361,Eternal Sunshine of the Spotless Mind (2004),5.0
+1,Alex,8360,Shrek 2 (2004),4.0
+2,Blake,4963,Ocean's Eleven (2001),4.0
+2,Blake,5816,Harry Potter and the Chamber of Secrets (2002),5.0
+2,Blake,33794,Batman Begins (2005),5.0
+2,Blake,8636,Spider-Man 2 (2004),5.0
+2,Blake,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",5.0
+2,Blake,8360,Shrek 2 (2004),4.0
+2,Blake,8961,"Incredibles, The (2004)",4.5
+2,Blake,6333,X2: X-Men United (2003),5.0
+3,Casey,6711,Lost in Translation (2003),4.0
+3,Casey,6874,Kill Bill: Vol. 1 (2003),4.5
+3,Casey,49272,Casino Royale (2006),4.0
+3,Casey,7361,Eternal Sunshine of the Spotless Mind (2004),4.5
+3,Casey,72998,Avatar (2009),4.0
+3,Casey,6333,X2: X-Men United (2003),4.0
+3,Casey,8874,Shaun of the Dead (2004),4.0
+3,Casey,5816,Harry Potter and the Chamber of Secrets (2002),3.5
+4,Drew,7438,Kill Bill: Vol. 2 (2004),3.5
+4,Drew,4886,"Monsters, Inc. (2001)",3.5
+4,Drew,68157,Inglourious Basterds (2009),3.5
+4,Drew,72998,Avatar (2009),2.5
+4,Drew,54286,"Bourne Ultimatum, The (2007)",3.5
+4,Drew,33794,Batman Begins (2005),3.5
+4,Drew,8874,Shaun of the Dead (2004),4.0
+4,Drew,8665,"Bourne Supremacy, The (2004)",3.5
+11,Evan,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.0
+11,Evan,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),1.0
+11,Evan,7153,"Lord of the Rings: The Return of the King, The (2003)",4.0
+12,Finn,6016,City of God (Cidade de Deus) (2002),4.0
+12,Finn,5349,Spider-Man (2002),3.0
+12,Finn,8368,Harry Potter and the Prisoner of Azkaban (2004),4.0
+12,Finn,8360,Shrek 2 (2004),3.5
+12,Finn,6711,Lost in Translation (2003),4.5
+12,Finn,72998,Avatar (2009),4.0
+12,Finn,8874,Shaun of the Dead (2004),4.5
+12,Finn,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),3.5
+13,Gray,8874,Shaun of the Dead (2004),5.0
+13,Gray,8961,"Incredibles, The (2004)",4.5
+13,Gray,4878,Donnie Darko (2001),4.5
+13,Gray,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.5
+13,Gray,6365,"Matrix Reloaded, The (2003)",3.0
+13,Gray,49272,Casino Royale (2006),5.0
+13,Gray,4963,Ocean's Eleven (2001),4.0
+13,Gray,48516,"Departed, The (2006)",5.0
+14,Harper,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",5.0
+14,Harper,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.0
+14,Harper,6016,City of God (Cidade de Deus) (2002),4.0
+14,Harper,7438,Kill Bill: Vol. 2 (2004),4.5
+14,Harper,8874,Shaun of the Dead (2004),4.0
+14,Harper,60069,WALL·E (2008),5.0
+14,Harper,68954,Up (2009),3.0
+16,Jamie,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.0
+16,Jamie,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),5.0
+16,Jamie,5952,"Lord of the Rings: The Two Towers, The (2002)",4.0
+16,Jamie,6016,City of God (Cidade de Deus) (2002),5.0
+17,Jordan,6377,Finding Nemo (2003),2.5
+17,Jordan,59315,Iron Man (2008),3.0
+17,Jordan,68954,Up (2009),3.5
+17,Jordan,72998,Avatar (2009),4.5
+18,Kai,6377,Finding Nemo (2003),4.0
+18,Kai,6333,X2: X-Men United (2003),4.0
+18,Kai,4306,Shrek (2001),3.0
+18,Kai,5349,Spider-Man (2002),4.0
+18,Kai,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.0
+18,Kai,7153,"Lord of the Rings: The Return of the King, The (2003)",4.0
+18,Kai,5378,Star Wars: Episode II - Attack of the Clones (2002),3.0
+18,Kai,5952,"Lord of the Rings: The Two Towers, The (2002)",4.0
+19,Logan,44191,V for Vendetta (2006),3.5
+19,Logan,99114,Django Unchained (2012),3.0
+19,Logan,59315,Iron Man (2008),2.5
+19,Logan,60069,WALL·E (2008),4.0
+19,Logan,5378,Star Wars: Episode II - Attack of the Clones (2002),3.0
+19,Logan,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",3.0
+19,Logan,58559,"Dark Knight, The (2008)",2.5
+19,Logan,6874,Kill Bill: Vol. 1 (2003),4.0
+20,Morgan,4306,Shrek (2001),4.0
+20,Morgan,4896,Harry Potter and the Philosopher's Stone (2001),4.5
+20,Morgan,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",5.0
+20,Morgan,5816,Harry Potter and the Chamber of Secrets (2002),4.5
+20,Morgan,5952,"Lord of the Rings: The Two Towers, The (2002)",5.0
+20,Morgan,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5
+20,Morgan,7153,"Lord of the Rings: The Return of the King, The (2003)",5.0
+20,Morgan,8961,"Incredibles, The (2004)",4.0
+21,Parker,68954,Up (2009),4.5
+21,Parker,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),5.0
+21,Parker,33794,Batman Begins (2005),5.0
+21,Parker,58559,"Dark Knight, The (2008)",5.0
+21,Parker,8665,"Bourne Supremacy, The (2004)",5.0
+21,Parker,60069,WALL·E (2008),4.5
+21,Parker,48516,"Departed, The (2006)",4.0
+21,Parker,5952,"Lord of the Rings: The Two Towers, The (2002)",5.0
+30,Quinn,4995,"Beautiful Mind, A (2001)",3.0
+30,Quinn,6711,Lost in Translation (2003),0.5
+30,Quinn,33794,Batman Begins (2005),2.5
+31,Reese,49272,Casino Royale (2006),4.0
+31,Reese,5989,Catch Me If You Can (2002),2.0
+31,Reese,6874,Kill Bill: Vol. 1 (2003),2.0
+31,Reese,44191,V for Vendetta (2006),3.0
+31,Reese,33794,Batman Begins (2005),2.0
+31,Reese,8360,Shrek 2 (2004),1.5
+31,Reese,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",1.5
+31,Reese,54286,"Bourne Ultimatum, The (2007)",3.0
+33,Riley,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",3.5
+33,Riley,6016,City of God (Cidade de Deus) (2002),4.0
+33,Riley,44191,V for Vendetta (2006),3.0
+33,Riley,58559,"Dark Knight, The (2008)",5.0
+33,Riley,68954,Up (2009),3.0
+35,Rowan,7361,Eternal Sunshine of the Spotless Mind (2004),4.0
+35,Rowan,58559,"Dark Knight, The (2008)",4.0
+35,Rowan,72998,Avatar (2009),2.5
+35,Rowan,79132,Inception (2010),4.0
+35,Rowan,109487,Interstellar (2014),3.5
+37,Shay,58559,"Dark Knight, The (2008)",4.0
+37,Shay,109487,Interstellar (2014),4.5
+37,Shay,6711,Lost in Translation (2003),4.0
+37,Shay,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",3.5
+37,Shay,79132,Inception (2010),4.5
+37,Shay,60069,WALL·E (2008),4.5
+37,Shay,72998,Avatar (2009),5.0
+37,Shay,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.0
+38,Sky,6333,X2: X-Men United (2003),2.5
+38,Sky,33794,Batman Begins (2005),3.0
+38,Sky,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),4.5
+38,Sky,8636,Spider-Man 2 (2004),2.0
+38,Sky,60069,WALL·E (2008),4.0
+38,Sky,54286,"Bourne Ultimatum, The (2007)",3.5
+38,Sky,68954,Up (2009),3.5
+38,Sky,4995,"Beautiful Mind, A (2001)",4.0
+39,Tatum,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",4.0
+39,Tatum,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),5.0
+39,Tatum,6016,City of God (Cidade de Deus) (2002),5.0
+39,Tatum,58559,"Dark Knight, The (2008)",4.5
+40,Taylor,48394,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",4.5
+40,Taylor,4878,Donnie Darko (2001),4.5
+40,Taylor,33794,Batman Begins (2005),4.0
+40,Taylor,58559,"Dark Knight, The (2008)",4.5
+40,Taylor,48780,"Prestige, The (2006)",4.0
+40,Taylor,59315,Iron Man (2008),4.0
+40,Taylor,6016,City of God (Cidade de Deus) (2002),5.0
+40,Taylor,48516,"Departed, The (2006)",4.5
+43,Zion,6365,"Matrix Reloaded, The (2003)",3.0
+43,Zion,6333,X2: X-Men United (2003),3.5
+43,Zion,4886,"Monsters, Inc. (2001)",3.5
+43,Zion,5445,Minority Report (2002),3.0
+43,Zion,48516,"Departed, The (2006)",3.5
+43,Zion,8665,"Bourne Supremacy, The (2004)",3.5
+43,Zion,5816,Harry Potter and the Chamber of Secrets (2002),2.5
+43,Zion,4896,Harry Potter and the Philosopher's Stone (2001),3.0
+44,Avery,5952,"Lord of the Rings: The Two Towers, The (2002)",5.0
+44,Avery,7153,"Lord of the Rings: The Return of the King, The (2003)",5.0
+44,Avery,58559,"Dark Knight, The (2008)",5.0
+44,Avery,79132,Inception (2010),5.0
+46,Bailey,4995,"Beautiful Mind, A (2001)",2.5
+46,Bailey,5418,"Bourne Identity, The (2002)",3.5
+46,Bailey,5989,Catch Me If You Can (2002),4.5
+46,Bailey,6874,Kill Bill: Vol. 1 (2003),0.5
+46,Bailey,7438,Kill Bill: Vol. 2 (2004),0.5
+46,Bailey,8368,Harry Potter and the Prisoner of Azkaban (2004),4.5
+46,Bailey,59315,Iron Man (2008),4.0
+50,Cameron,68157,Inglourious Basterds (2009),4.5
+50,Cameron,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.0
+50,Cameron,32587,Sin City (2005),5.0
+50,Cameron,7438,Kill Bill: Vol. 2 (2004),5.0
+50,Cameron,6874,Kill Bill: Vol. 1 (2003),5.0
+50,Cameron,5349,Spider-Man (2002),3.5
+50,Cameron,7361,Eternal Sunshine of the Spotless Mind (2004),4.0
+50,Cameron,79132,Inception (2010),4.5
+53,Charlie,4886,"Monsters, Inc. (2001)",4.0
+53,Charlie,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",5.0
+53,Charlie,6711,Lost in Translation (2003),4.0
+53,Charlie,8961,"Incredibles, The (2004)",4.0
+53,Charlie,72998,Avatar (2009),4.0
+53,Charlie,109487,Interstellar (2014),3.0
+55,Dakota,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",3.0
+55,Dakota,4995,"Beautiful Mind, A (2001)",4.0
+55,Dakota,6016,City of God (Cidade de Deus) (2002),5.0
+55,Dakota,7361,Eternal Sunshine of the Spotless Mind (2004),4.0
+56,Dallas,4306,Shrek (2001),4.5
+56,Dallas,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.5
+56,Dallas,5349,Spider-Man (2002),4.5
+56,Dallas,5445,Minority Report (2002),5.0
+56,Dallas,5952,"Lord of the Rings: The Two Towers, The (2002)",4.0
+56,Dallas,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),3.0
+56,Dallas,7153,"Lord of the Rings: The Return of the King, The (2003)",2.0
+57,Elliott,4995,"Beautiful Mind, A (2001)",4.0
+57,Elliott,5418,"Bourne Identity, The (2002)",4.0
+57,Elliott,4886,"Monsters, Inc. (2001)",5.0
+57,Elliott,8961,"Incredibles, The (2004)",4.0
+57,Elliott,60069,WALL·E (2008),4.5
+57,Elliott,7438,Kill Bill: Vol. 2 (2004),4.0
+57,Elliott,8636,Spider-Man 2 (2004),2.5
+57,Elliott,68954,Up (2009),4.5
+59,Emerson,5816,Harry Potter and the Chamber of Secrets (2002),3.5
+59,Emerson,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.0
+59,Emerson,7153,"Lord of the Rings: The Return of the King, The (2003)",4.5
+59,Emerson,8368,Harry Potter and the Prisoner of Azkaban (2004),3.5
+59,Emerson,6874,Kill Bill: Vol. 1 (2003),3.5
+59,Emerson,6377,Finding Nemo (2003),3.5
+59,Emerson,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),3.5
+59,Emerson,4878,Donnie Darko (2001),4.0
+62,Hayden,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",3.5
+62,Hayden,60069,WALL·E (2008),4.0
+62,Hayden,32587,Sin City (2005),4.0
+62,Hayden,6711,Lost in Translation (2003),4.0
+62,Hayden,48516,"Departed, The (2006)",5.0
+62,Hayden,8665,"Bourne Supremacy, The (2004)",4.0
+62,Hayden,5952,"Lord of the Rings: The Two Towers, The (2002)",4.5
+62,Hayden,7361,Eternal Sunshine of the Spotless Mind (2004),4.0
+64,Hunter,48516,"Departed, The (2006)",4.5
+64,Hunter,91529,"Dark Knight Rises, The (2012)",4.5
+64,Hunter,60069,WALL·E (2008),4.0
+64,Hunter,109487,Interstellar (2014),5.0
+64,Hunter,58559,"Dark Knight, The (2008)",5.0
+64,Hunter,68954,Up (2009),5.0
+64,Hunter,99114,Django Unchained (2012),4.5
+64,Hunter,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",5.0
+65,Jayden,7153,"Lord of the Rings: The Return of the King, The (2003)",5.0
+65,Jayden,48516,"Departed, The (2006)",4.0
+65,Jayden,48780,"Prestige, The (2006)",5.0
+65,Jayden,59315,Iron Man (2008),5.0
+65,Jayden,91529,"Dark Knight Rises, The (2012)",5.0
+66,Jesse,4886,"Monsters, Inc. (2001)",3.5
+66,Jesse,4963,Ocean's Eleven (2001),5.0
+66,Jesse,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5
+66,Jesse,8665,"Bourne Supremacy, The (2004)",5.0
+68,Justice,5952,"Lord of the Rings: The Two Towers, The (2002)",3.5
+68,Justice,72998,Avatar (2009),3.0
+68,Justice,5989,Catch Me If You Can (2002),3.5
+68,Justice,44191,V for Vendetta (2006),3.5
+68,Justice,91529,"Dark Knight Rises, The (2012)",4.5
+68,Justice,58559,"Dark Knight, The (2008)",5.0
+68,Justice,7438,Kill Bill: Vol. 2 (2004),4.0
+68,Justice,7153,"Lord of the Rings: The Return of the King, The (2003)",3.5
+69,Kendall,6377,Finding Nemo (2003),3.5
+69,Kendall,8368,Harry Potter and the Prisoner of Azkaban (2004),2.5
+69,Kendall,58559,"Dark Knight, The (2008)",5.0
+69,Kendall,6365,"Matrix Reloaded, The (2003)",2.0
+69,Kendall,7438,Kill Bill: Vol. 2 (2004),5.0
+69,Kendall,59315,Iron Man (2008),3.0
+69,Kendall,8636,Spider-Man 2 (2004),4.5
+69,Kendall,6711,Lost in Translation (2003),4.5
+70,Kennedy,6377,Finding Nemo (2003),3.5
+70,Kennedy,48516,"Departed, The (2006)",3.0
+70,Kennedy,8636,Spider-Man 2 (2004),3.5
+70,Kennedy,5378,Star Wars: Episode II - Attack of the Clones (2002),1.5
+70,Kennedy,5418,"Bourne Identity, The (2002)",3.5
+70,Kennedy,5349,Spider-Man (2002),2.5
+70,Kennedy,6874,Kill Bill: Vol. 1 (2003),2.0
+70,Kennedy,6711,Lost in Translation (2003),5.0
+71,Lennon,4306,Shrek (2001),5.0
+71,Lennon,4886,"Monsters, Inc. (2001)",4.0
+71,Lennon,8665,"Bourne Supremacy, The (2004)",4.0
+71,Lennon,68157,Inglourious Basterds (2009),5.0
+71,Lennon,68954,Up (2009),4.0
+71,Lennon,72998,Avatar (2009),5.0
+71,Lennon,79132,Inception (2010),4.0
+71,Lennon,99114,Django Unchained (2012),3.0
+75,Marlow,68954,Up (2009),3.0
+75,Marlow,4896,Harry Potter and the Philosopher's Stone (2001),1.5
+75,Marlow,48780,"Prestige, The (2006)",3.0
+75,Marlow,7153,"Lord of the Rings: The Return of the King, The (2003)",4.5
+75,Marlow,5952,"Lord of the Rings: The Two Towers, The (2002)",4.5
+75,Marlow,6365,"Matrix Reloaded, The (2003)",3.5
+75,Marlow,79132,Inception (2010),3.0
+75,Marlow,7361,Eternal Sunshine of the Spotless Mind (2004),2.5
+76,Marley,4878,Donnie Darko (2001),4.5
+76,Marley,8368,Harry Potter and the Prisoner of Azkaban (2004),3.0
+76,Marley,44191,V for Vendetta (2006),5.0
+76,Marley,7361,Eternal Sunshine of the Spotless Mind (2004),4.5
+76,Marley,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",5.0
+76,Marley,58559,"Dark Knight, The (2008)",2.0
+76,Marley,49272,Casino Royale (2006),4.0
+76,Marley,60069,WALL·E (2008),4.5
+78,Micah,5349,Spider-Man (2002),5.0
+78,Micah,4878,Donnie Darko (2001),4.5
+78,Micah,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),5.0
+78,Micah,8961,"Incredibles, The (2004)",5.0
+78,Micah,6377,Finding Nemo (2003),5.0
+78,Micah,8636,Spider-Man 2 (2004),4.5
+78,Micah,6874,Kill Bill: Vol. 1 (2003),5.0
+78,Micah,4306,Shrek (2001),5.0
+82,Noel,6377,Finding Nemo (2003),3.0
+82,Noel,7153,"Lord of the Rings: The Return of the King, The (2003)",3.0
+82,Noel,6016,City of God (Cidade de Deus) (2002),4.5
+82,Noel,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",3.0
+82,Noel,79132,Inception (2010),1.5
+82,Noel,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),2.5
+82,Noel,7361,Eternal Sunshine of the Spotless Mind (2004),3.0
+82,Noel,8360,Shrek 2 (2004),2.5
+84,Oakley,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.0
+84,Oakley,5952,"Lord of the Rings: The Two Towers, The (2002)",4.0
+84,Oakley,60069,WALL·E (2008),3.5
+84,Oakley,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),4.5
+84,Oakley,79132,Inception (2010),3.0
+84,Oakley,6874,Kill Bill: Vol. 1 (2003),3.0
+84,Oakley,58559,"Dark Knight, The (2008)",3.0
+84,Oakley,7153,"Lord of the Rings: The Return of the King, The (2003)",4.0
+87,Peyton,4878,Donnie Darko (2001),5.0
+87,Peyton,72998,Avatar (2009),4.5
+87,Peyton,79132,Inception (2010),5.0
+89,Phoenix,5418,"Bourne Identity, The (2002)",4.0
+89,Phoenix,5816,Harry Potter and the Chamber of Secrets (2002),3.5
+89,Phoenix,7153,"Lord of the Rings: The Return of the King, The (2003)",4.0
+89,Phoenix,6377,Finding Nemo (2003),2.5
+89,Phoenix,8368,Harry Potter and the Prisoner of Azkaban (2004),3.0
+89,Phoenix,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.5
+89,Phoenix,5989,Catch Me If You Can (2002),4.0
+89,Phoenix,5952,"Lord of the Rings: The Two Towers, The (2002)",4.0
+91,Quincy,72998,Avatar (2009),4.0
+91,Quincy,5378,Star Wars: Episode II - Attack of the Clones (2002),3.5
+91,Quincy,68157,Inglourious Basterds (2009),4.0
+91,Quincy,109487,Interstellar (2014),5.0
+91,Quincy,48780,"Prestige, The (2006)",4.0
+91,Quincy,4995,"Beautiful Mind, A (2001)",4.5
+91,Quincy,79132,Inception (2010),4.5
+91,Quincy,4963,Ocean's Eleven (2001),4.0
+92,Raine,4306,Shrek (2001),4.5
+92,Raine,4995,"Beautiful Mind, A (2001)",4.5
+92,Raine,5445,Minority Report (2002),4.0
+92,Raine,5989,Catch Me If You Can (2002),4.0
+92,Raine,6377,Finding Nemo (2003),4.0
+92,Raine,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5
+92,Raine,8636,Spider-Man 2 (2004),3.5
+92,Raine,33794,Batman Begins (2005),4.0
+93,Remy,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",5.0
+93,Remy,8360,Shrek 2 (2004),4.5
+93,Remy,7361,Eternal Sunshine of the Spotless Mind (2004),5.0
+93,Remy,4306,Shrek (2001),4.0
+93,Remy,72998,Avatar (2009),0.5
+93,Remy,8368,Harry Potter and the Prisoner of Azkaban (2004),4.0
+93,Remy,60069,WALL·E (2008),4.0
+93,Remy,8874,Shaun of the Dead (2004),4.0
+95,Robin,44191,V for Vendetta (2006),3.5
+95,Robin,8368,Harry Potter and the Prisoner of Azkaban (2004),4.5
+95,Robin,4995,"Beautiful Mind, A (2001)",3.0
+95,Robin,68954,Up (2009),4.0
+95,Robin,6377,Finding Nemo (2003),4.0
+95,Robin,60069,WALL·E (2008),4.0
+95,Robin,79132,Inception (2010),4.0
+95,Robin,4878,Donnie Darko (2001),3.5
+96,Sage,54286,"Bourne Ultimatum, The (2007)",4.0
+96,Sage,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),5.0
+96,Sage,4878,Donnie Darko (2001),4.0
+96,Sage,79132,Inception (2010),3.0
+96,Sage,59315,Iron Man (2008),5.0
+96,Sage,60069,WALL·E (2008),4.0
+96,Sage,91529,"Dark Knight Rises, The (2012)",4.0
+96,Sage,4306,Shrek (2001),3.5
+97,Sam,4963,Ocean's Eleven (2001),4.5
+97,Sam,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",5.0
+97,Sam,5378,Star Wars: Episode II - Attack of the Clones (2002),2.5
+97,Sam,5418,"Bourne Identity, The (2002)",4.5
+97,Sam,5445,Minority Report (2002),5.0
+97,Sam,6333,X2: X-Men United (2003),5.0
+98,Sawyer,4886,"Monsters, Inc. (2001)",5.0
+98,Sawyer,4896,Harry Potter and the Philosopher's Stone (2001),4.0
+98,Sawyer,5816,Harry Potter and the Chamber of Secrets (2002),4.0
+98,Sawyer,6377,Finding Nemo (2003),4.0
+98,Sawyer,8368,Harry Potter and the Prisoner of Azkaban (2004),4.0
+98,Sawyer,60069,WALL·E (2008),4.5
+98,Sawyer,68954,Up (2009),5.0
+99,Scout,4878,Donnie Darko (2001),3.0
+99,Scout,6016,City of God (Cidade de Deus) (2002),3.0
+99,Scout,60069,WALL·E (2008),2.0
+99,Scout,33794,Batman Begins (2005),2.5
+99,Scout,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),2.0
+99,Scout,99114,Django Unchained (2012),4.0
+99,Scout,4995,"Beautiful Mind, A (2001)",4.0
+99,Scout,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),2.5
+101,Shawn,109487,Interstellar (2014),2.5
+101,Shawn,48780,"Prestige, The (2006)",4.0
+101,Shawn,48394,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",4.0
+101,Shawn,6016,City of God (Cidade de Deus) (2002),4.0
+101,Shawn,5445,Minority Report (2002),3.0
+101,Shawn,99114,Django Unchained (2012),4.0
+101,Shawn,79132,Inception (2010),5.0
+101,Shawn,44191,V for Vendetta (2006),4.0
+104,Sloan,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),5.0
+104,Sloan,6874,Kill Bill: Vol. 1 (2003),4.5
+104,Sloan,7438,Kill Bill: Vol. 2 (2004),4.5
+104,Sloan,79132,Inception (2010),5.0
+107,Stevie,8961,"Incredibles, The (2004)",3.5
+107,Stevie,6016,City of God (Cidade de Deus) (2002),4.0
+107,Stevie,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),3.5
+107,Stevie,7438,Kill Bill: Vol. 2 (2004),4.0
+107,Stevie,6874,Kill Bill: Vol. 1 (2003),4.5
+107,Stevie,7361,Eternal Sunshine of the Spotless Mind (2004),4.0
+107,Stevie,4306,Shrek (2001),4.0
+107,Stevie,6377,Finding Nemo (2003),2.5
+108,Storm,33794,Batman Begins (2005),3.5
+108,Storm,58559,"Dark Knight, The (2008)",4.5
+108,Storm,59315,Iron Man (2008),4.0
+108,Storm,79132,Inception (2010),4.5
+108,Storm,91529,"Dark Knight Rises, The (2012)",4.5
+108,Storm,109487,Interstellar (2014),5.0
+109,Toby,48394,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",3.5
+109,Toby,33794,Batman Begins (2005),4.5
+109,Toby,91529,"Dark Knight Rises, The (2012)",3.0
+109,Toby,68157,Inglourious Basterds (2009),3.0
+109,Toby,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),4.0
+109,Toby,6377,Finding Nemo (2003),4.0
+109,Toby,7153,"Lord of the Rings: The Return of the King, The (2003)",4.5
+109,Toby,48780,"Prestige, The (2006)",4.5
+110,Wren,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",5.0
+110,Wren,7361,Eternal Sunshine of the Spotless Mind (2004),2.5
+110,Wren,54286,"Bourne Ultimatum, The (2007)",5.0
+111,Aiden,4306,Shrek (2001),4.5
+111,Aiden,4886,"Monsters, Inc. (2001)",5.0
+111,Aiden,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",3.5
+111,Aiden,5952,"Lord of the Rings: The Two Towers, The (2002)",3.5
+111,Aiden,6377,Finding Nemo (2003),5.0
+111,Aiden,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),5.0
+111,Aiden,7153,"Lord of the Rings: The Return of the King, The (2003)",3.5
+113,Angel,4878,Donnie Darko (2001),3.0
+113,Angel,7361,Eternal Sunshine of the Spotless Mind (2004),4.0
+113,Angel,79132,Inception (2010),4.0
+113,Angel,99114,Django Unchained (2012),5.0
+113,Angel,68157,Inglourious Basterds (2009),3.5
+113,Angel,109487,Interstellar (2014),4.0
+113,Angel,8874,Shaun of the Dead (2004),4.0
+113,Angel,48394,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",3.5
+114,Ash,68954,Up (2009),3.0
+114,Ash,60069,WALL·E (2008),3.5
+114,Ash,49272,Casino Royale (2006),3.0
+114,Ash,8961,"Incredibles, The (2004)",3.5
+114,Ash,48780,"Prestige, The (2006)",4.5
+114,Ash,79132,Inception (2010),5.0
+114,Ash,4886,"Monsters, Inc. (2001)",3.0
+114,Ash,5418,"Bourne Identity, The (2002)",5.0
+117,Aspen,4896,Harry Potter and the Philosopher's Stone (2001),5.0
+117,Aspen,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",2.5
+117,Aspen,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",5.0
+117,Aspen,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),5.0
+117,Aspen,5952,"Lord of the Rings: The Two Towers, The (2002)",5.0
+117,Aspen,7153,"Lord of the Rings: The Return of the King, The (2003)",5.0
+117,Aspen,68954,Up (2009),5.0
+117,Aspen,79132,Inception (2010),5.0
+119,August,5445,Minority Report (2002),0.5
+119,August,48516,"Departed, The (2006)",1.0
+119,August,109487,Interstellar (2014),0.5
+119,August,5349,Spider-Man (2002),3.5
+119,August,4306,Shrek (2001),1.5
+119,August,5418,"Bourne Identity, The (2002)",3.5
+119,August,33794,Batman Begins (2005),3.5
+119,August,68954,Up (2009),4.5
+125,Billie,5378,Star Wars: Episode II - Attack of the Clones (2002),4.0
+125,Billie,5952,"Lord of the Rings: The Two Towers, The (2002)",4.0
+125,Billie,5816,Harry Potter and the Chamber of Secrets (2002),2.0
+125,Billie,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",5.0
+125,Billie,4878,Donnie Darko (2001),3.0
+125,Billie,4886,"Monsters, Inc. (2001)",4.0
+125,Billie,5445,Minority Report (2002),4.0
+125,Billie,5349,Spider-Man (2002),4.0
+126,Blaine,6016,City of God (Cidade de Deus) (2002),4.5
+126,Blaine,79132,Inception (2010),4.5
+126,Blaine,99114,Django Unchained (2012),4.0
+127,Briar,99114,Django Unchained (2012),5.0
+127,Briar,68157,Inglourious Basterds (2009),5.0
+127,Briar,7361,Eternal Sunshine of the Spotless Mind (2004),5.0
+127,Briar,79132,Inception (2010),5.0
+127,Briar,5989,Catch Me If You Can (2002),5.0
+127,Briar,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",1.0
+127,Briar,7153,"Lord of the Rings: The Return of the King, The (2003)",1.0
+127,Briar,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",5.0
+128,Brook,8874,Shaun of the Dead (2004),4.0
+128,Brook,33794,Batman Begins (2005),4.0
+128,Brook,58559,"Dark Knight, The (2008)",5.0
+128,Brook,59315,Iron Man (2008),4.0
+128,Brook,68157,Inglourious Basterds (2009),4.5
+128,Brook,79132,Inception (2010),5.0
+128,Brook,91529,"Dark Knight Rises, The (2012)",4.0
+131,Campbell,4306,Shrek (2001),3.5
+131,Campbell,4995,"Beautiful Mind, A (2001)",4.0
+131,Campbell,5418,"Bourne Identity, The (2002)",3.0
+131,Campbell,5445,Minority Report (2002),2.5
+132,Chase,4306,Shrek (2001),3.0
+132,Chase,4886,"Monsters, Inc. (2001)",5.0
+132,Chase,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.0
+132,Chase,4995,"Beautiful Mind, A (2001)",5.0
+134,Chris,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",5.0
+134,Chris,4995,"Beautiful Mind, A (2001)",4.5
+134,Chris,5378,Star Wars: Episode II - Attack of the Clones (2002),4.0
+134,Chris,5952,"Lord of the Rings: The Two Towers, The (2002)",5.0
+134,Chris,7153,"Lord of the Rings: The Return of the King, The (2003)",5.0
+134,Chris,33794,Batman Begins (2005),5.0
+135,Corey,4896,Harry Potter and the Philosopher's Stone (2001),5.0
+135,Corey,5816,Harry Potter and the Chamber of Secrets (2002),5.0
+135,Corey,8368,Harry Potter and the Prisoner of Azkaban (2004),5.0
+139,Dylan,7438,Kill Bill: Vol. 2 (2004),5.0
+139,Dylan,6874,Kill Bill: Vol. 1 (2003),4.5
+139,Dylan,4306,Shrek (2001),3.5
+139,Dylan,6365,"Matrix Reloaded, The (2003)",1.0
+139,Dylan,32587,Sin City (2005),4.0
+139,Dylan,7361,Eternal Sunshine of the Spotless Mind (2004),3.5
+139,Dylan,68157,Inglourious Basterds (2009),3.5
+139,Dylan,58559,"Dark Knight, The (2008)",5.0
+142,Easton,33794,Batman Begins (2005),3.5
+142,Easton,4886,"Monsters, Inc. (2001)",4.5
+142,Easton,5349,Spider-Man (2002),3.0
+142,Easton,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),5.0
+142,Easton,6874,Kill Bill: Vol. 1 (2003),3.5
+142,Easton,99114,Django Unchained (2012),3.5
+142,Easton,4306,Shrek (2001),4.0
+142,Easton,8360,Shrek 2 (2004),3.0
+144,Ellis,8636,Spider-Man 2 (2004),3.0
+144,Ellis,48394,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",3.5
+144,Ellis,59315,Iron Man (2008),3.0
+144,Ellis,4878,Donnie Darko (2001),3.5
+144,Ellis,6333,X2: X-Men United (2003),2.5
+144,Ellis,7153,"Lord of the Rings: The Return of the King, The (2003)",4.0
+144,Ellis,4896,Harry Potter and the Philosopher's Stone (2001),4.0
+144,Ellis,5952,"Lord of the Rings: The Two Towers, The (2002)",4.0
+146,Emery,68954,Up (2009),3.5
+146,Emery,54286,"Bourne Ultimatum, The (2007)",3.0
+146,Emery,5952,"Lord of the Rings: The Two Towers, The (2002)",3.0
+146,Emery,99114,Django Unchained (2012),4.0
+146,Emery,4995,"Beautiful Mind, A (2001)",2.5
+146,Emery,59315,Iron Man (2008),4.0
+146,Emery,58559,"Dark Knight, The (2008)",5.0
+146,Emery,91529,"Dark Knight Rises, The (2012)",5.0
+148,Eren,99114,Django Unchained (2012),3.5
+148,Eren,79132,Inception (2010),4.0
+148,Eren,58559,"Dark Knight, The (2008)",4.0
+148,Eren,5952,"Lord of the Rings: The Two Towers, The (2002)",4.5
+148,Eren,60069,WALL·E (2008),4.0
+148,Eren,109487,Interstellar (2014),4.0
+148,Eren,7153,"Lord of the Rings: The Return of the King, The (2003)",5.0
+148,Eren,44191,V for Vendetta (2006),4.0
+151,Frankie,7153,"Lord of the Rings: The Return of the King, The (2003)",4.0
+151,Frankie,4886,"Monsters, Inc. (2001)",1.5
+151,Frankie,4878,Donnie Darko (2001),4.0
+151,Frankie,109487,Interstellar (2014),3.0
+151,Frankie,6377,Finding Nemo (2003),2.0
+151,Frankie,7438,Kill Bill: Vol. 2 (2004),4.0
+151,Frankie,6874,Kill Bill: Vol. 1 (2003),5.0
+151,Frankie,49272,Casino Royale (2006),4.0
+153,Gabriel,5989,Catch Me If You Can (2002),5.0
+153,Gabriel,32587,Sin City (2005),5.0
+153,Gabriel,79132,Inception (2010),5.0
+154,Gael,4306,Shrek (2001),4.0
+154,Gael,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.5
+154,Gael,5952,"Lord of the Rings: The Two Towers, The (2002)",4.0
+154,Gael,7153,"Lord of the Rings: The Return of the King, The (2003)",4.5
+154,Gael,79132,Inception (2010),4.5
+155,Indigo,7361,Eternal Sunshine of the Spotless Mind (2004),4.0
+155,Indigo,4995,"Beautiful Mind, A (2001)",3.5
+155,Indigo,8636,Spider-Man 2 (2004),4.0
+155,Indigo,4878,Donnie Darko (2001),3.5
+155,Indigo,68157,Inglourious Basterds (2009),5.0
+155,Indigo,4963,Ocean's Eleven (2001),3.5
+155,Indigo,54286,"Bourne Ultimatum, The (2007)",4.0
+155,Indigo,7438,Kill Bill: Vol. 2 (2004),4.0
+157,Jace,4886,"Monsters, Inc. (2001)",3.0
+157,Jace,4896,Harry Potter and the Philosopher's Stone (2001),2.0
+157,Jace,4963,Ocean's Eleven (2001),3.0
+159,Jamie,44191,V for Vendetta (2006),5.0
+159,Jamie,33794,Batman Begins (2005),5.0
+159,Jamie,8874,Shaun of the Dead (2004),1.0
+159,Jamie,8360,Shrek 2 (2004),4.0
+159,Jamie,8961,"Incredibles, The (2004)",4.0
+159,Jamie,5418,"Bourne Identity, The (2002)",4.5
+159,Jamie,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.0
+159,Jamie,8368,Harry Potter and the Prisoner of Azkaban (2004),4.0
+160,Jean,4963,Ocean's Eleven (2001),4.0
+160,Jean,6377,Finding Nemo (2003),5.0
+160,Jean,7361,Eternal Sunshine of the Spotless Mind (2004),5.0
+160,Jean,4306,Shrek (2001),2.5
+160,Jean,5816,Harry Potter and the Chamber of Secrets (2002),4.5
+160,Jean,8360,Shrek 2 (2004),1.5
+160,Jean,6333,X2: X-Men United (2003),4.0
+160,Jean,4896,Harry Potter and the Philosopher's Stone (2001),4.5
+161,Jess,4963,Ocean's Eleven (2001),3.0
+161,Jess,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",3.5
+161,Jess,5952,"Lord of the Rings: The Two Towers, The (2002)",3.0
+161,Jess,7153,"Lord of the Rings: The Return of the King, The (2003)",3.0
+161,Jess,8636,Spider-Man 2 (2004),4.5
+163,Jules,5349,Spider-Man (2002),4.5
+163,Jules,5418,"Bourne Identity, The (2002)",4.0
+163,Jules,6874,Kill Bill: Vol. 1 (2003),4.0
+163,Jules,7438,Kill Bill: Vol. 2 (2004),4.0
+163,Jules,8636,Spider-Man 2 (2004),4.0
+163,Jules,33794,Batman Begins (2005),4.0
+164,Jules,4306,Shrek (2001),4.0
+164,Jules,5952,"Lord of the Rings: The Two Towers, The (2002)",4.5
+164,Jules,7153,"Lord of the Rings: The Return of the King, The (2003)",4.5
+164,Jules,5816,Harry Potter and the Chamber of Secrets (2002),4.5
+164,Jules,6333,X2: X-Men United (2003),4.5
+164,Jules,7361,Eternal Sunshine of the Spotless Mind (2004),3.5
+164,Jules,33794,Batman Begins (2005),4.0
+164,Jules,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",5.0
+169,Justice,5418,"Bourne Identity, The (2002)",3.0
+169,Justice,4306,Shrek (2001),3.5
+169,Justice,6016,City of God (Cidade de Deus) (2002),4.0
+169,Justice,48516,"Departed, The (2006)",3.5
+169,Justice,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",4.0
+169,Justice,4878,Donnie Darko (2001),3.5
+169,Justice,58559,"Dark Knight, The (2008)",3.5
+169,Justice,68157,Inglourious Basterds (2009),4.0
+171,Kade,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",5.0
+171,Kade,8665,"Bourne Supremacy, The (2004)",4.0
+171,Kade,8961,"Incredibles, The (2004)",5.0
+171,Kade,4878,Donnie Darko (2001),4.0
+171,Kade,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.0
+171,Kade,5445,Minority Report (2002),4.5
+171,Kade,7361,Eternal Sunshine of the Spotless Mind (2004),4.5
+171,Kade,5952,"Lord of the Rings: The Two Towers, The (2002)",5.0
+172,Keegan,4963,Ocean's Eleven (2001),4.0
+172,Keegan,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.0
+172,Keegan,5952,"Lord of the Rings: The Two Towers, The (2002)",4.0
+172,Keegan,7153,"Lord of the Rings: The Return of the King, The (2003)",4.0
+172,Keegan,7361,Eternal Sunshine of the Spotless Mind (2004),4.0
+172,Keegan,72998,Avatar (2009),5.0
+172,Keegan,79132,Inception (2010),4.0
+172,Keegan,109487,Interstellar (2014),2.0
+174,Kieran,8961,"Incredibles, The (2004)",0.5
+174,Kieran,6711,Lost in Translation (2003),5.0
+174,Kieran,5445,Minority Report (2002),5.0
+174,Kieran,4995,"Beautiful Mind, A (2001)",4.5
+174,Kieran,68954,Up (2009),4.0
+174,Kieran,48516,"Departed, The (2006)",4.5
+174,Kieran,32587,Sin City (2005),3.5
+174,Kieran,4963,Ocean's Eleven (2001),4.0
+180,Lake,48516,"Departed, The (2006)",4.0
+180,Lake,58559,"Dark Knight, The (2008)",5.0
+180,Lake,91529,"Dark Knight Rises, The (2012)",5.0
+180,Lake,99114,Django Unchained (2012),5.0
+180,Lake,109487,Interstellar (2014),5.0
+181,Lennox,7438,Kill Bill: Vol. 2 (2004),2.0
+181,Lennox,4963,Ocean's Eleven (2001),1.0
+181,Lennox,48516,"Departed, The (2006)",2.5
+181,Lennox,58559,"Dark Knight, The (2008)",2.0
+181,Lennox,5349,Spider-Man (2002),2.0
+181,Lennox,4878,Donnie Darko (2001),1.5
+181,Lennox,49272,Casino Royale (2006),1.0
+181,Lennox,99114,Django Unchained (2012),3.0
+184,Levi,5445,Minority Report (2002),4.0
+184,Levi,8360,Shrek 2 (2004),4.0
+184,Levi,5816,Harry Potter and the Chamber of Secrets (2002),3.0
+184,Levi,6711,Lost in Translation (2003),2.0
+184,Levi,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",2.0
+184,Levi,8636,Spider-Man 2 (2004),4.0
+184,Levi,5989,Catch Me If You Can (2002),3.0
+184,Levi,8368,Harry Potter and the Prisoner of Azkaban (2004),3.0
+185,Lex,5952,"Lord of the Rings: The Two Towers, The (2002)",5.0
+185,Lex,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",4.5
+185,Lex,6377,Finding Nemo (2003),4.0
+185,Lex,4306,Shrek (2001),3.5
+185,Lex,6874,Kill Bill: Vol. 1 (2003),4.5
+185,Lex,7153,"Lord of the Rings: The Return of the King, The (2003)",5.0
+185,Lex,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",5.0
+185,Lex,7438,Kill Bill: Vol. 2 (2004),4.0
+186,Lincoln,48516,"Departed, The (2006)",4.0
+186,Lincoln,54286,"Bourne Ultimatum, The (2007)",5.0
+186,Lincoln,8360,Shrek 2 (2004),3.5
+186,Lincoln,6333,X2: X-Men United (2003),4.0
+186,Lincoln,6377,Finding Nemo (2003),5.0
+186,Lincoln,5349,Spider-Man (2002),4.0
+186,Lincoln,7361,Eternal Sunshine of the Spotless Mind (2004),3.5
+186,Lincoln,7153,"Lord of the Rings: The Return of the King, The (2003)",4.5
+187,Luca,32587,Sin City (2005),4.0
+187,Luca,4878,Donnie Darko (2001),5.0
+187,Luca,109487,Interstellar (2014),5.0
+187,Luca,8874,Shaun of the Dead (2004),4.5
+187,Luca,5418,"Bourne Identity, The (2002)",4.5
+187,Luca,7361,Eternal Sunshine of the Spotless Mind (2004),5.0
+187,Luca,6711,Lost in Translation (2003),5.0
+187,Luca,5989,Catch Me If You Can (2002),4.5
+188,Lyric,4306,Shrek (2001),4.0
+188,Lyric,4886,"Monsters, Inc. (2001)",3.0
+188,Lyric,4896,Harry Potter and the Philosopher's Stone (2001),3.0
+188,Lyric,4963,Ocean's Eleven (2001),1.0
+188,Lyric,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.0
+188,Lyric,5349,Spider-Man (2002),4.0
+188,Lyric,5378,Star Wars: Episode II - Attack of the Clones (2002),2.0
+189,Maddox,4995,"Beautiful Mind, A (2001)",4.0
+189,Maddox,7153,"Lord of the Rings: The Return of the King, The (2003)",4.5
+189,Maddox,5952,"Lord of the Rings: The Two Towers, The (2002)",4.0
+189,Maddox,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",4.5
+189,Maddox,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5
+189,Maddox,4306,Shrek (2001),2.5
+189,Maddox,5445,Minority Report (2002),4.5
+189,Maddox,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.5
+191,Maverick,68954,Up (2009),4.0
+191,Maverick,72998,Avatar (2009),4.0
+191,Maverick,79132,Inception (2010),4.0
+193,Mckenzie,4306,Shrek (2001),4.0
+193,Mckenzie,4886,"Monsters, Inc. (2001)",4.5
+193,Mckenzie,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",4.5
+193,Mckenzie,5952,"Lord of the Rings: The Two Towers, The (2002)",2.0
+195,Milan,4963,Ocean's Eleven (2001),4.0
+195,Milan,7438,Kill Bill: Vol. 2 (2004),4.0
+195,Milan,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.0
+195,Milan,60069,WALL·E (2008),5.0
+195,Milan,54286,"Bourne Ultimatum, The (2007)",4.0
+195,Milan,33794,Batman Begins (2005),4.5
+195,Milan,5418,"Bourne Identity, The (2002)",4.0
+195,Milan,5445,Minority Report (2002),3.0
+196,Monroe,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",5.0
+196,Monroe,5989,Catch Me If You Can (2002),4.0
+196,Monroe,32587,Sin City (2005),4.0
+196,Monroe,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.0
+196,Monroe,7153,"Lord of the Rings: The Return of the King, The (2003)",3.0
+196,Monroe,4878,Donnie Darko (2001),5.0
+196,Monroe,6711,Lost in Translation (2003),5.0
+196,Monroe,8874,Shaun of the Dead (2004),4.0
+197,Morgan,5445,Minority Report (2002),3.5
+197,Morgan,6377,Finding Nemo (2003),4.0
+197,Morgan,8961,"Incredibles, The (2004)",4.5
+197,Morgan,5349,Spider-Man (2002),0.5
+197,Morgan,4306,Shrek (2001),4.0
+197,Morgan,33794,Batman Begins (2005),3.0
+197,Morgan,5418,"Bourne Identity, The (2002)",3.0
+197,Morgan,4886,"Monsters, Inc. (2001)",4.0
+202,Nico,7438,Kill Bill: Vol. 2 (2004),3.0
+202,Nico,4306,Shrek (2001),0.5
+202,Nico,5445,Minority Report (2002),5.0
+202,Nico,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.0
+202,Nico,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),3.0
+202,Nico,48516,"Departed, The (2006)",3.0
+202,Nico,7153,"Lord of the Rings: The Return of the King, The (2003)",4.5
+202,Nico,6874,Kill Bill: Vol. 1 (2003),4.0
+203,Oaklee,4306,Shrek (2001),4.0
+203,Oaklee,6365,"Matrix Reloaded, The (2003)",2.5
+203,Oaklee,6377,Finding Nemo (2003),3.0
+203,Oaklee,7438,Kill Bill: Vol. 2 (2004),4.5
+203,Oaklee,44191,V for Vendetta (2006),4.0
+203,Oaklee,48516,"Departed, The (2006)",3.5
+203,Oaklee,60069,WALL·E (2008),3.0
+204,Onyx,58559,"Dark Knight, The (2008)",5.0
+204,Onyx,5952,"Lord of the Rings: The Two Towers, The (2002)",5.0
+204,Onyx,7361,Eternal Sunshine of the Spotless Mind (2004),4.0
+204,Onyx,59315,Iron Man (2008),3.0
+204,Onyx,32587,Sin City (2005),3.0
+204,Onyx,6365,"Matrix Reloaded, The (2003)",5.0
+204,Onyx,99114,Django Unchained (2012),4.5
+204,Onyx,79132,Inception (2010),5.0
+207,Orion,32587,Sin City (2005),3.5
+207,Orion,48516,"Departed, The (2006)",4.0
+207,Orion,8874,Shaun of the Dead (2004),4.0
+207,Orion,7361,Eternal Sunshine of the Spotless Mind (2004),4.0
+207,Orion,7153,"Lord of the Rings: The Return of the King, The (2003)",2.5
+207,Orion,6365,"Matrix Reloaded, The (2003)",1.5
+207,Orion,59315,Iron Man (2008),3.0
+207,Orion,8665,"Bourne Supremacy, The (2004)",4.0
+208,Paris,49272,Casino Royale (2006),4.0
+208,Paris,7361,Eternal Sunshine of the Spotless Mind (2004),5.0
+208,Paris,58559,"Dark Knight, The (2008)",4.5
+208,Paris,59315,Iron Man (2008),5.0
+208,Paris,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.0
+208,Paris,6874,Kill Bill: Vol. 1 (2003),5.0
+208,Paris,99114,Django Unchained (2012),3.0
+208,Paris,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),2.5
+209,Pax,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",5.0
+209,Pax,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),3.0
+209,Pax,6874,Kill Bill: Vol. 1 (2003),5.0
+209,Pax,7438,Kill Bill: Vol. 2 (2004),4.5
+209,Pax,32587,Sin City (2005),4.5
+209,Pax,48394,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",5.0
+209,Pax,58559,"Dark Knight, The (2008)",4.0
+211,Payton,49272,Casino Royale (2006),5.0
+211,Payton,4306,Shrek (2001),4.5
+211,Payton,4995,"Beautiful Mind, A (2001)",4.0
+211,Payton,5418,"Bourne Identity, The (2002)",4.0
+211,Payton,7153,"Lord of the Rings: The Return of the King, The (2003)",4.5
+211,Payton,48516,"Departed, The (2006)",5.0
+211,Payton,60069,WALL·E (2008),4.5
+211,Payton,4886,"Monsters, Inc. (2001)",4.5
+213,Rain,5445,Minority Report (2002),3.5
+213,Rain,5989,Catch Me If You Can (2002),4.0
+213,Rain,7153,"Lord of the Rings: The Return of the King, The (2003)",3.5
+213,Rain,7438,Kill Bill: Vol. 2 (2004),4.0
+216,Reagan,4963,Ocean's Eleven (2001),4.0
+216,Reagan,8665,"Bourne Supremacy, The (2004)",4.0
+216,Reagan,8636,Spider-Man 2 (2004),4.5
+216,Reagan,6377,Finding Nemo (2003),3.5
+216,Reagan,7361,Eternal Sunshine of the Spotless Mind (2004),5.0
+216,Reagan,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.0
+216,Reagan,5952,"Lord of the Rings: The Two Towers, The (2002)",4.0
+216,Reagan,5418,"Bourne Identity, The (2002)",4.5
+217,Rex,4896,Harry Potter and the Philosopher's Stone (2001),3.0
+217,Rex,6377,Finding Nemo (2003),4.0
+217,Rex,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),3.0
+217,Rex,8368,Harry Potter and the Prisoner of Azkaban (2004),4.0
+217,Rex,8665,"Bourne Supremacy, The (2004)",3.5
+217,Rex,8636,Spider-Man 2 (2004),4.0
+217,Rex,5445,Minority Report (2002),4.0
+217,Rex,7153,"Lord of the Rings: The Return of the King, The (2003)",4.0
+218,River,8961,"Incredibles, The (2004)",4.5
+218,River,8665,"Bourne Supremacy, The (2004)",4.5
+218,River,5349,Spider-Man (2002),4.5
+218,River,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.0
+218,River,44191,V for Vendetta (2006),4.0
+218,River,54286,"Bourne Ultimatum, The (2007)",4.5
+218,River,8636,Spider-Man 2 (2004),4.0
+218,River,4963,Ocean's Eleven (2001),4.0
+220,Rome,5418,"Bourne Identity, The (2002)",4.5
+220,Rome,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.0
+220,Rome,8665,"Bourne Supremacy, The (2004)",4.5
+220,Rome,48780,"Prestige, The (2006)",2.5
+220,Rome,54286,"Bourne Ultimatum, The (2007)",4.5
+220,Rome,59315,Iron Man (2008),4.0
+220,Rome,79132,Inception (2010),4.5
+221,Rory,4306,Shrek (2001),4.0
+221,Rory,4886,"Monsters, Inc. (2001)",3.5
+221,Rory,5349,Spider-Man (2002),3.5
+221,Rory,5445,Minority Report (2002),3.5
+221,Rory,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.0
+223,Ryan,6377,Finding Nemo (2003),4.0
+223,Ryan,58559,"Dark Knight, The (2008)",4.5
+223,Ryan,79132,Inception (2010),2.5
+223,Ryan,5816,Harry Potter and the Chamber of Secrets (2002),4.0
+223,Ryan,48516,"Departed, The (2006)",4.5
+223,Ryan,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",5.0
+223,Ryan,5349,Spider-Man (2002),4.0
+223,Ryan,7153,"Lord of the Rings: The Return of the King, The (2003)",4.5
+224,Ryker,91529,"Dark Knight Rises, The (2012)",2.5
+224,Ryker,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.0
+224,Ryker,32587,Sin City (2005),4.0
+224,Ryker,5418,"Bourne Identity, The (2002)",4.0
+224,Ryker,33794,Batman Begins (2005),2.5
+224,Ryker,44191,V for Vendetta (2006),5.0
+224,Ryker,49272,Casino Royale (2006),3.5
+224,Ryker,6365,"Matrix Reloaded, The (2003)",3.5
+226,Sasha,6365,"Matrix Reloaded, The (2003)",3.0
+226,Sasha,4963,Ocean's Eleven (2001),3.5
+226,Sasha,5989,Catch Me If You Can (2002),4.0
+226,Sasha,5816,Harry Potter and the Chamber of Secrets (2002),2.0
+226,Sasha,6333,X2: X-Men United (2003),2.5
+226,Sasha,4306,Shrek (2001),3.5
+226,Sasha,4995,"Beautiful Mind, A (2001)",4.5
+226,Sasha,5378,Star Wars: Episode II - Attack of the Clones (2002),2.5
+227,Shiloh,4306,Shrek (2001),4.5
+227,Shiloh,79132,Inception (2010),4.0
+227,Shiloh,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",5.0
+227,Shiloh,8665,"Bourne Supremacy, The (2004)",4.5
+227,Shiloh,8368,Harry Potter and the Prisoner of Azkaban (2004),4.0
+227,Shiloh,48516,"Departed, The (2006)",5.0
+227,Shiloh,5418,"Bourne Identity, The (2002)",4.5
+227,Shiloh,5989,Catch Me If You Can (2002),3.5
+228,Skye,8874,Shaun of the Dead (2004),4.0
+228,Skye,6016,City of God (Cidade de Deus) (2002),4.0
+228,Skye,6377,Finding Nemo (2003),3.5
+228,Skye,5989,Catch Me If You Can (2002),3.5
+228,Skye,4995,"Beautiful Mind, A (2001)",4.0
+228,Skye,68157,Inglourious Basterds (2009),3.5
+228,Skye,33794,Batman Begins (2005),4.0
+228,Skye,59315,Iron Man (2008),3.5
+233,Sterling,5418,"Bourne Identity, The (2002)",5.0
+233,Sterling,33794,Batman Begins (2005),4.0
+233,Sterling,5349,Spider-Man (2002),4.0
+233,Sterling,4896,Harry Potter and the Philosopher's Stone (2001),4.5
+233,Sterling,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",5.0
+233,Sterling,7361,Eternal Sunshine of the Spotless Mind (2004),5.0
+233,Sterling,8961,"Incredibles, The (2004)",3.0
+233,Sterling,5378,Star Wars: Episode II - Attack of the Clones (2002),5.0
+234,Stormy,4995,"Beautiful Mind, A (2001)",4.0
+234,Stormy,5418,"Bourne Identity, The (2002)",4.0
+234,Stormy,7361,Eternal Sunshine of the Spotless Mind (2004),3.0
+234,Stormy,8665,"Bourne Supremacy, The (2004)",4.0
+234,Stormy,58559,"Dark Knight, The (2008)",4.0
+234,Stormy,79132,Inception (2010),4.0
+235,Sunny,8961,"Incredibles, The (2004)",5.0
+235,Sunny,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),2.0
+235,Sunny,6377,Finding Nemo (2003),4.0
+235,Sunny,4878,Donnie Darko (2001),5.0
+235,Sunny,79132,Inception (2010),5.0
+235,Sunny,5952,"Lord of the Rings: The Two Towers, The (2002)",5.0
+235,Sunny,49272,Casino Royale (2006),4.5
+235,Sunny,4886,"Monsters, Inc. (2001)",5.0
+238,Sutton,72998,Avatar (2009),4.5
+238,Sutton,5952,"Lord of the Rings: The Two Towers, The (2002)",5.0
+238,Sutton,7153,"Lord of the Rings: The Return of the King, The (2003)",5.0
+238,Sutton,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),2.0
+238,Sutton,4306,Shrek (2001),4.5
+238,Sutton,58559,"Dark Knight, The (2008)",5.0
+238,Sutton,8360,Shrek 2 (2004),5.0
+238,Sutton,7361,Eternal Sunshine of the Spotless Mind (2004),4.5
+242,Sydney,4896,Harry Potter and the Philosopher's Stone (2001),4.5
+242,Sydney,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),3.0
+242,Sydney,8368,Harry Potter and the Prisoner of Azkaban (2004),3.0
+242,Sydney,4886,"Monsters, Inc. (2001)",3.5
+242,Sydney,5952,"Lord of the Rings: The Two Towers, The (2002)",3.0
+242,Sydney,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",3.0
+242,Sydney,4963,Ocean's Eleven (2001),4.0
+242,Sydney,8360,Shrek 2 (2004),3.5
+243,Taj,4306,Shrek (2001),2.0
+243,Taj,5816,Harry Potter and the Chamber of Secrets (2002),3.5
+243,Taj,7153,"Lord of the Rings: The Return of the King, The (2003)",3.5
+243,Taj,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",3.5
+243,Taj,5952,"Lord of the Rings: The Two Towers, The (2002)",3.5
+243,Taj,6874,Kill Bill: Vol. 1 (2003),2.0
+243,Taj,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),5.0
+243,Taj,4886,"Monsters, Inc. (2001)",1.5
+246,Teagan,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",3.5
+246,Teagan,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),2.5
+246,Teagan,7361,Eternal Sunshine of the Spotless Mind (2004),3.0
+246,Teagan,48394,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",3.0
+246,Teagan,68157,Inglourious Basterds (2009),3.0
+246,Teagan,79132,Inception (2010),2.5
+246,Teagan,99114,Django Unchained (2012),4.0
+246,Teagan,109487,Interstellar (2014),3.0
+247,Terry,4306,Shrek (2001),5.0
+247,Terry,4896,Harry Potter and the Philosopher's Stone (2001),2.0
+247,Terry,4963,Ocean's Eleven (2001),5.0
+247,Terry,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.0
+247,Terry,5349,Spider-Man (2002),4.0
+248,Theo,68157,Inglourious Basterds (2009),4.0
+248,Theo,72998,Avatar (2009),4.0
+248,Theo,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.0
+248,Theo,5445,Minority Report (2002),3.5
+248,Theo,7153,"Lord of the Rings: The Return of the King, The (2003)",4.0
+248,Theo,91529,"Dark Knight Rises, The (2012)",4.0
+248,Theo,5378,Star Wars: Episode II - Attack of the Clones (2002),2.0
+248,Theo,54286,"Bourne Ultimatum, The (2007)",3.0
+249,Tory,4306,Shrek (2001),5.0
+249,Tory,7438,Kill Bill: Vol. 2 (2004),4.0
+249,Tory,8665,"Bourne Supremacy, The (2004)",4.5
+251,Tristan,6333,X2: X-Men United (2003),2.0
+251,Tristan,33794,Batman Begins (2005),2.0
+251,Tristan,6874,Kill Bill: Vol. 1 (2003),4.5
+251,Tristan,5418,"Bourne Identity, The (2002)",5.0
+251,Tristan,7153,"Lord of the Rings: The Return of the King, The (2003)",1.0
+251,Tristan,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),5.0
+251,Tristan,5952,"Lord of the Rings: The Two Towers, The (2002)",0.5
+251,Tristan,4878,Donnie Darko (2001),5.0
+252,True,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",2.5
+252,True,5952,"Lord of the Rings: The Two Towers, The (2002)",2.5
+252,True,7153,"Lord of the Rings: The Return of the King, The (2003)",2.5
+252,True,7361,Eternal Sunshine of the Spotless Mind (2004),4.0
+252,True,8874,Shaun of the Dead (2004),4.0
+252,True,8961,"Incredibles, The (2004)",4.0
+252,True,58559,"Dark Knight, The (2008)",3.5
+253,Ty,60069,WALL·E (2008),5.0
+253,Ty,68157,Inglourious Basterds (2009),4.5
+253,Ty,68954,Up (2009),5.0
+253,Ty,99114,Django Unchained (2012),4.0
+253,Ty,59315,Iron Man (2008),4.5
+253,Ty,91529,"Dark Knight Rises, The (2012)",4.5
+253,Ty,58559,"Dark Knight, The (2008)",5.0
+253,Ty,72998,Avatar (2009),4.5
+254,Val,5349,Spider-Man (2002),3.5
+254,Val,5952,"Lord of the Rings: The Two Towers, The (2002)",5.0
+254,Val,7153,"Lord of the Rings: The Return of the King, The (2003)",5.0
+254,Val,7361,Eternal Sunshine of the Spotless Mind (2004),5.0
+254,Val,8636,Spider-Man 2 (2004),3.0
+255,Winter,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",4.5
+255,Winter,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.0
+255,Winter,5952,"Lord of the Rings: The Two Towers, The (2002)",4.0
+255,Winter,6333,X2: X-Men United (2003),3.0
+255,Winter,6377,Finding Nemo (2003),4.0
+255,Winter,6711,Lost in Translation (2003),4.0
+255,Winter,7361,Eternal Sunshine of the Spotless Mind (2004),4.5
+255,Winter,32587,Sin City (2005),2.0
+257,Zane,6377,Finding Nemo (2003),4.5
+257,Zane,4963,Ocean's Eleven (2001),4.0
+257,Zane,4886,"Monsters, Inc. (2001)",4.5
+257,Zane,5989,Catch Me If You Can (2002),4.5
+257,Zane,5816,Harry Potter and the Chamber of Secrets (2002),4.5
+257,Zane,109487,Interstellar (2014),4.5
+257,Zane,58559,"Dark Knight, The (2008)",4.5
+257,Zane,59315,Iron Man (2008),4.0
+259,Zen,4306,Shrek (2001),5.0
+259,Zen,4886,"Monsters, Inc. (2001)",4.5
+259,Zen,4896,Harry Potter and the Philosopher's Stone (2001),4.0
+259,Zen,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",5.0
+259,Zen,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",5.0
+259,Zen,4995,"Beautiful Mind, A (2001)",4.5
+259,Zen,6365,"Matrix Reloaded, The (2003)",2.5
+259,Zen,7153,"Lord of the Rings: The Return of the King, The (2003)",5.0
+260,Ari,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.0
+260,Ari,5952,"Lord of the Rings: The Two Towers, The (2002)",4.0
+260,Ari,7153,"Lord of the Rings: The Return of the King, The (2003)",4.0
+260,Ari,58559,"Dark Knight, The (2008)",3.0
+260,Ari,60069,WALL·E (2008),3.0
+260,Ari,79132,Inception (2010),3.0
+261,Alexis,4306,Shrek (2001),4.0
+261,Alexis,4886,"Monsters, Inc. (2001)",4.0
+261,Alexis,4896,Harry Potter and the Philosopher's Stone (2001),5.0
+261,Alexis,4963,Ocean's Eleven (2001),4.0
+261,Alexis,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",5.0
+261,Alexis,5378,Star Wars: Episode II - Attack of the Clones (2002),5.0
+261,Alexis,5989,Catch Me If You Can (2002),4.0
+261,Alexis,6333,X2: X-Men United (2003),5.0
+265,Blair,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.5
+265,Blair,8961,"Incredibles, The (2004)",4.5
+265,Blair,6333,X2: X-Men United (2003),4.0
+265,Blair,4886,"Monsters, Inc. (2001)",3.5
+265,Blair,5952,"Lord of the Rings: The Two Towers, The (2002)",4.5
+265,Blair,6377,Finding Nemo (2003),4.5
+265,Blair,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.0
+265,Blair,33794,Batman Begins (2005),4.5
+266,Carter,5952,"Lord of the Rings: The Two Towers, The (2002)",2.0
+266,Carter,58559,"Dark Knight, The (2008)",4.0
+266,Carter,4995,"Beautiful Mind, A (2001)",3.5
+266,Carter,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",2.0
+266,Carter,48516,"Departed, The (2006)",4.0
+266,Carter,7153,"Lord of the Rings: The Return of the King, The (2003)",2.0
+266,Carter,48780,"Prestige, The (2006)",2.0
+266,Carter,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",3.5
+267,Cleo,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",4.5
+267,Cleo,91529,"Dark Knight Rises, The (2012)",4.5
+267,Cleo,33794,Batman Begins (2005),4.0
+267,Cleo,99114,Django Unchained (2012),5.0
+267,Cleo,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",3.5
+267,Cleo,48780,"Prestige, The (2006)",4.0
+267,Cleo,5952,"Lord of the Rings: The Two Towers, The (2002)",5.0
+267,Cleo,48516,"Departed, The (2006)",4.0
+271,Devon,7361,Eternal Sunshine of the Spotless Mind (2004),4.5
+271,Devon,48516,"Departed, The (2006)",2.0
+271,Devon,5952,"Lord of the Rings: The Two Towers, The (2002)",3.5
+271,Devon,49272,Casino Royale (2006),3.0
+271,Devon,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",5.0
+271,Devon,33794,Batman Begins (2005),2.0
+271,Devon,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",5.0
+271,Devon,8961,"Incredibles, The (2004)",4.0
+273,Emery,4306,Shrek (2001),0.5
+273,Emery,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",3.0
+273,Emery,44191,V for Vendetta (2006),5.0
+273,Emery,109487,Interstellar (2014),3.5
+275,Emmett,7153,"Lord of the Rings: The Return of the King, The (2003)",5.0
+275,Emmett,58559,"Dark Knight, The (2008)",5.0
+275,Emmett,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",5.0
+275,Emmett,91529,"Dark Knight Rises, The (2012)",5.0
+275,Emmett,8368,Harry Potter and the Prisoner of Azkaban (2004),5.0
+275,Emmett,8874,Shaun of the Dead (2004),5.0
+275,Emmett,48394,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",5.0
+275,Emmett,109487,Interstellar (2014),5.0
+279,Finnley,49272,Casino Royale (2006),3.0
+279,Finnley,5349,Spider-Man (2002),3.5
+279,Finnley,7153,"Lord of the Rings: The Return of the King, The (2003)",4.5
+279,Finnley,8636,Spider-Man 2 (2004),4.0
+279,Finnley,5445,Minority Report (2002),3.5
+279,Finnley,4306,Shrek (2001),4.0
+279,Finnley,5952,"Lord of the Rings: The Two Towers, The (2002)",4.0
+279,Finnley,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5
+283,Georgie,6365,"Matrix Reloaded, The (2003)",4.5
+283,Georgie,8636,Spider-Man 2 (2004),3.5
+283,Georgie,8961,"Incredibles, The (2004)",4.0
+283,Georgie,79132,Inception (2010),5.0
+283,Georgie,109487,Interstellar (2014),5.0
